@@ -1,4 +1,0 @@
-CONTAINER ID   IMAGE                              COMMAND                  CREATED          STATUS                      PORTS                NAMES
-9c16e1c9ee44   fimochka/gb_docker_flask_example   "/docker-entrypoint.…"   20 minutes ago   Exited (1) 20 minutes ago                        optimistic_tu
-ca298b389c60   docker/getting-started             "/docker-entrypoint.…"   25 minutes ago   Up 24 minutes               0.0.0.0:80->80/tcp   quizzical_mcnulty
-4126876a3a52   alpine/git                         "git clone https://g…"   4 hours ago      Exited (0) 4 hours ago                           repo
